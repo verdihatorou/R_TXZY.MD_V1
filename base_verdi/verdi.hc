@@ -1,0 +1,2 @@
+remote.hc
+ 'hc^verdi'
